@@ -1,6 +1,6 @@
 # Hosting a Full-Stack Application
 
-The app is available here: (Udagram)[http://d2gher-udagram.s3-website-us-east-1.amazonaws.com/]
+The app is available here: [Udagram](http://d2gher-udagram.s3-website-us-east-1.amazonaws.com/)
 
 ### Dependencies
 
